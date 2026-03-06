@@ -1,0 +1,3 @@
+ws.ddfdf.co {
+    reverse_proxy localhost:7880
+}
